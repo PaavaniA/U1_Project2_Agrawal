@@ -1,7 +1,7 @@
 /*
 Name: Paavani Agrawal
  
- This project 
+THis project is of a hot air balloon that floats through the star filled sky that can move left and right using the “a” and “d” keys, grow and shrink using the “w” and “s” keys, and play “Sky Full of Stars” by Coldplay when the space bar is pressed.
  
  */
 
